@@ -1,7 +1,7 @@
 var HDWalletProvider = require("truffle-hdwallet-provider");
 
-var infura_apikey = "SpmKpyHrAEs5bLHFQjin";
-var mnemonic = "oven stereo alarm slow rack wide taxi bullet health large tree long";
+var infura_apikey = "Infura api key";
+var mnemonic = "paste you mnemonic here get from Metamask";
 
 
 module.exports = {
